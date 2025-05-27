@@ -1,1 +1,19 @@
-__pycache__/\n.ipynb_checkpoints/\n*.pyc\n.env/\n.DS_Store
+# Entorno
+.env/
+.venv/
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+# Jupyter
+.ipynb_checkpoints/
+# Data heavy
+audio_examples/*.wav
+audio_examples/*.mp3
+*.zip
+# VSCode / PyCharm
+.vscode/
+.idea/
+# OS
+.DS_Store
+Thumbs.db
