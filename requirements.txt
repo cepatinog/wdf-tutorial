@@ -1,9 +1,8 @@
-git+https://github.com/gusanthon/pywdf
-numpy>=1.23
-scipy>=1.10
-matplotlib>=3.7
-jupyterlab  # o jupyter
-ipywidgets  # sliders interactivos
+pywdf @ git+https://github.com/gusanthon/pywdf.git@main
+numpy
+scipy
+matplotlib
 pytest
 scikit-learn  # solo si sigues usando mean_squared_error
 librosa # para el manejo de audio
+soundfile

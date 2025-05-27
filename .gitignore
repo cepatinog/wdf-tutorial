@@ -8,8 +8,8 @@ __pycache__/
 # Jupyter
 .ipynb_checkpoints/
 # Data heavy
-audio_examples/*.wav
-audio_examples/*.mp3
+audio_files/*.wav
+audio_files/*.mp3
 *.zip
 # VSCode / PyCharm
 .vscode/
