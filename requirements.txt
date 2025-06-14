@@ -3,6 +3,5 @@ numpy
 scipy
 matplotlib
 pytest
-scikit-learn  # solo si sigues usando mean_squared_error
-librosa # para el manejo de audio
+librosa
 soundfile
